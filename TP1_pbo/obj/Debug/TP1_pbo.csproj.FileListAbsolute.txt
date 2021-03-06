@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\TP1_pbo\TP1_pbo\bin\Debug\TP1_pbo.exe.config
+C:\Users\acer\source\repos\TP1_pbo\TP1_pbo\bin\Debug\TP1_pbo.exe
+C:\Users\acer\source\repos\TP1_pbo\TP1_pbo\bin\Debug\TP1_pbo.pdb
+C:\Users\acer\source\repos\TP1_pbo\TP1_pbo\obj\Debug\TP1_pbo.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\TP1_pbo\TP1_pbo\obj\Debug\TP1_pbo.Properties.Resources.resources
+C:\Users\acer\source\repos\TP1_pbo\TP1_pbo\obj\Debug\TP1_pbo.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\TP1_pbo\TP1_pbo\obj\Debug\TP1_pbo.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\TP1_pbo\TP1_pbo\obj\Debug\TP1_pbo.exe
+C:\Users\acer\source\repos\TP1_pbo\TP1_pbo\obj\Debug\TP1_pbo.pdb
+C:\Users\acer\source\repos\TP1_pbo\TP1_pbo\obj\Debug\TP1_pbo.login.resources
+C:\Users\acer\source\repos\TP1_pbo\TP1_pbo\obj\Debug\TP1_pbo.menu.resources

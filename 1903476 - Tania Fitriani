@@ -1,0 +1,18 @@
+Saya Tania Fitriani mengerjakan TP 1 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek
+ untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+ # Kesulitan dan yg dipelajari
+  - bingung cara membuat item dengan code, contohnya memasukan gambar pada data dinamis
+  - kurang tau dan paham tentang fungsi apa saja yg ada pada System.Drawing. dll.
+  - belajar mendesain tampilan agar lebih menarik
+  - belajar menghubungkan objek di class dengan desain yg dibuat
+
+# Fitur
+ - dropdown untuk range harga
+ - dropdown untuk kategori
+ - fitur cari barang
+ - menampilkan menu detail
+ - tombol home
+ - tombol web katalog menuju ecommerce kain
+ - tombol logout kembali ke menu login
+ - validasi login
